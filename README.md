@@ -1,9 +1,6 @@
 # jamming
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
-
-<!--Badges-->
 [![GitHub issues](https://img.shields.io/github/issues/Mogakamo/jamming)](https://github.com/Mogakamo/jamming/issues)
 [![GitHub forks](https://img.shields.io/github/forks/Mogakamo/jamming)](https://github.com/Mogakamo/jamming/network)
 [![GitHub stars](https://img.shields.io/github/stars/Mogakamo/jamming)](https://github.com/Mogakamo/jamming/stargazers)
