@@ -1,10 +1,10 @@
-# jamming
+   <h1 class="center">jamming</h1>
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
 [![GitHub issues](https://img.shields.io/github/issues/Mogakamo/jamming)](https://github.com/Mogakamo/jamming/issues)
 [![GitHub forks](https://img.shields.io/github/forks/Mogakamo/jamming)](https://github.com/Mogakamo/jamming/network)
 [![GitHub stars](https://img.shields.io/github/stars/Mogakamo/jamming)](https://github.com/Mogakamo/jamming/stargazers)
-
+![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Mogakamo/jamming)
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
