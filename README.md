@@ -7,6 +7,7 @@
 [![GitHub forks](https://img.shields.io/github/forks/Mogakamo/jamming)](https://github.com/Mogakamo/jamming/network)
 [![GitHub stars](https://img.shields.io/github/stars/Mogakamo/jamming)](https://github.com/Mogakamo/jamming/stargazers)
 ![GitHub closed issues](https://img.shields.io/github/issues-closed-raw/Mogakamo/jamming)
+![GitHub last commit](https://img.shields.io/github/last-commit/mogakamo/jamming)
 ## Contributors ✨
 
 Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
