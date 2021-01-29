@@ -1,10 +1,10 @@
 import React from 'react'
 import logo from './logo.svg'
-import './App.css'
-import ReactDOM, { } from 'react-dom'
+import './App.css';
 
-class App extends React.Component {
-    render(){
+
+function  App() {
+    render() {
         return (
             <div>
                 <h1>Ja<span className="highlight">mmm</span>ing</h1>
@@ -20,3 +20,4 @@ class App extends React.Component {
     }
 }
 
+export default App;
