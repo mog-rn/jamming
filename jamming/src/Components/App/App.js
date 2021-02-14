@@ -5,8 +5,9 @@ import './App.css';
 class App extends React.Component {
     constructor(props) {
         super();
-        
-    }
+        this.state.searchResults = {};
+    
+    };
     render() {
        return (
             <div>
