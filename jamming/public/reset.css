@@ -105,3 +105,26 @@ section {
 body {
     line-height: 1;
 }
+
+ol, 
+ul {
+    list-style: none;
+}
+
+blockquote,
+q {
+    quotes: none;
+}
+
+blockquote:before, 
+blockquote:after,
+q:after,
+q:before {
+    content: '';
+    content: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
